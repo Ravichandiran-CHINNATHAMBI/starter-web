@@ -16,6 +16,7 @@ Learing GIT tool
 To be decided
 adding line for rebasing example
 
+more changes from my feature branc
 reviewd
 ###Copyright notice
 Copyright session
