@@ -14,6 +14,7 @@ Learing GIT tool
 
 ##GIT USAGE
 To be decided
+adding line for rebasing example
 
 reviewd
 ###Copyright notice
