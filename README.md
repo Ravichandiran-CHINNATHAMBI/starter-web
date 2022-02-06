@@ -19,7 +19,7 @@ adding line for rebasing example
 more changes from my feature branc
 reviewd
 ###Copyright notice
-Copyright session
+Copyright session/ All right reserved
 
 ## How to contribute
 Please fork this repository and then issue pull requests for review
