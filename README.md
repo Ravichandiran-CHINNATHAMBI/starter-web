@@ -19,3 +19,5 @@ reviewd
 ###Copyright notice
 Copyright session
 
+## How to contribute
+Please fork this repository and then issue pull requests for review
