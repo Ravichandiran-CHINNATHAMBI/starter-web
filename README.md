@@ -16,3 +16,6 @@ Learing GIT tool
 To be decided
 
 reviewd
+###Copyright notice
+Copyright session
+
