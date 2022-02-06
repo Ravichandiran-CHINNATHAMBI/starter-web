@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Ravichanditan ravi@git.trainig @ravibhai
 
 # THANKS
 
